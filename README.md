@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/shivam00005/shivam00005/blob/main/wave.gif" width="200" height="200"/></h1>
+<h1  align="center"><img src="https://github.com/shivam00005/shivam00005/blob/main/wave.gif" width="200" height="200"/></h1>
 
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A Student and A Passionate Web Developer and Designer.</h3>
