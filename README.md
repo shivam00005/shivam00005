@@ -1,3 +1,5 @@
+<img src="" width="300" height="300"/>
+
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A Student and A Passionate Web Developer and Designer.</h3>
 
