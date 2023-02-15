@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shivam.netlify.app/](https://portfolio-shivam.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shivamsharma-portfolio.netlify.app](https://shivamsharma-portfolio.netlify.app)
 
 - 📫 How to reach me **sharmn6395960@gmail.com**
 
